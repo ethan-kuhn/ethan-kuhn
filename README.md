@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ethan-kuhn
+- 👀 I’m interested in UX Design and front-end web development
+- 🌱 I’m currently learning how to apply skills learned in school to personal projects (personal portfolio, school research, etc.)
+- 📫 You can email me @ ethan.joseph.kuhn@gmail.com
